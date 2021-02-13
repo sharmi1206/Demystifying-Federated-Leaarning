@@ -1,0 +1,3979 @@
+Cluster number for dataset Sensor is 4
+Balance of the dataset 0.21510972796050867
+Number of points in the dataset 22646
+Demographic-probabilites: [0.8229709440960876, 0.17702905590391238]
+Demographic-numbers per group: [18637, 4009]
+Lambda tune is true
+Inside Lambda  0
+compute energy
+fair clustering energy = 0.10402313920468309
+clustering energy = 0.10402313920468309
+Inside ncut update
+compute energy
+fair clustering energy = 0.0920340725577713
+clustering energy = 0.0920340725577713
+Inside ncut update
+compute energy
+fair clustering energy = 0.0865825761018324
+clustering energy = 0.0865825761018324
+Inside ncut update
+compute energy
+fair clustering energy = 0.08207620681860828
+clustering energy = 0.08207620681860828
+Inside ncut update
+compute energy
+fair clustering energy = 0.07702483216613754
+clustering energy = 0.07702483216613754
+Inside ncut update
+compute energy
+fair clustering energy = 0.07100315287983072
+clustering energy = 0.07100315287983072
+Inside ncut update
+compute energy
+fair clustering energy = 0.07037189089831353
+clustering energy = 0.07037189089831353
+Inside ncut update
+compute energy
+fair clustering energy = 0.06991356442514807
+clustering energy = 0.06991356442514807
+Inside ncut update
+compute energy
+fair clustering energy = 0.06953084442743673
+clustering energy = 0.06953084442743673
+Inside ncut update
+compute energy
+fair clustering energy = 0.06916930139667965
+clustering energy = 0.06916930139667965
+Inside ncut update
+compute energy
+fair clustering energy = 0.06866614818641104
+clustering energy = 0.06866614818641104
+Inside ncut update
+compute energy
+fair clustering energy = 0.06739797261999136
+clustering energy = 0.06739797261999136
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+Inside ncut update
+compute energy
+fair clustering energy = 0.0670532282436711
+clustering energy = 0.0670532282436711
+Inside ncut update
+compute energy
+fair clustering energy = 0.06706120547947902
+clustering energy = 0.06706120547947902
+3.7028739479999997
+lambda = 0, 
+ fairness_error  1.72 and 
+ avg_balance =  0.26 
+ min_balance =  0.00
+Best fairness_error 1.7232 |Error lambda =  0
+Best  Avg balance 0.2634 | Avg Balance lambda =  0
+Best  Min balance 0.0013 | Min Balance lambda =  0
+Inside Lambda  100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.18870055000000008
+fairness_error = 1.5085
+compute energy
+fair clustering energy = 189.74339258388977
+clustering energy = 0.10487182471051604
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020796382000000335
+fairness_error = 1.5853
+compute energy
+fair clustering energy = 189.74339263478797
+clustering energy = 0.09253816503594603
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022564620999999896
+fairness_error = 1.6004
+compute energy
+fair clustering energy = 189.74339270947414
+clustering energy = 0.08666906414575948
+......Job  done......
+0.5300734199999999
+lambda = 100, 
+ fairness_error  1.60 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.6004 |Error lambda =  100
+Best  Avg balance 0.2687 | Avg Balance lambda =  100
+Best  Min balance 0.0016 | Min Balance lambda =  100
+Inside Lambda  200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.030196652999999962
+fairness_error = 1.4960
+compute energy
+fair clustering energy = 376.4867851571577
+clustering energy = 0.10527715028183993
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02022113499999989
+fairness_error = 1.5831
+compute energy
+fair clustering energy = 376.4867852543328
+clustering energy = 0.0930289316240831
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.035368622000000016
+fairness_error = 1.5847
+compute energy
+fair clustering energy = 376.4867853787796
+clustering energy = 0.08679315530143317
+......Job  done......
+0.32153957600000016
+lambda = 200, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5847 |Error lambda =  200
+Best  Avg balance 0.2709 | Avg Balance lambda =  200
+Best  Min balance 0.0016 | Min Balance lambda =  100
+Inside Lambda  300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.049893851999999406
+fairness_error = 1.4960
+compute energy
+fair clustering energy = 563.2301775289031
+clustering energy = 0.10527715028183993
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025969411000000164
+fairness_error = 1.5831
+compute energy
+fair clustering energy = 563.2301776726877
+clustering energy = 0.0930289316240831
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.023703197000000564
+fairness_error = 1.5847
+compute energy
+fair clustering energy = 563.2301778536345
+clustering energy = 0.08679315530143317
+......Job  done......
+0.39632228299999994
+lambda = 300, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5847 |Error lambda =  200
+Best  Avg balance 0.2709 | Avg Balance lambda =  200
+Best  Min balance 0.0016 | Min Balance lambda =  100
+Inside Lambda  400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02702628299999965
+fairness_error = 1.4900
+compute energy
+fair clustering energy = 749.9735697080973
+clustering energy = 0.10546312915534495
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02032917299999948
+fairness_error = 1.5826
+compute energy
+fair clustering energy = 749.9735698908371
+clustering energy = 0.09314435307225377
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019706855999999995
+fairness_error = 1.5842
+compute energy
+fair clustering energy = 749.97357011652
+clustering energy = 0.08684377169454649
+......Job  done......
+0.3018536000000003
+lambda = 400, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5842 |Error lambda =  400
+Best  Avg balance 0.2711 | Avg Balance lambda =  400
+Best  Min balance 0.0016 | Min Balance lambda =  400
+Inside Lambda  500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04689698999999958
+fairness_error = 1.4899
+compute energy
+fair clustering energy = 936.7169617034522
+clustering energy = 0.10550505602671212
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.041216083000000125
+fairness_error = 1.5819
+compute energy
+fair clustering energy = 936.7169619218867
+clustering energy = 0.09339553947247214
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020377648000000192
+fairness_error = 1.5837
+compute energy
+fair clustering energy = 936.7169621807049
+clustering energy = 0.0869470773900991
+......Job  done......
+0.395451349
+lambda = 500, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5837 |Error lambda =  500
+Best  Avg balance 0.2713 | Avg Balance lambda =  500
+Best  Min balance 0.0016 | Min Balance lambda =  500
+Inside Lambda  600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.029991340000000477
+fairness_error = 1.4679
+compute energy
+fair clustering energy = 1123.4603535233564
+clustering energy = 0.10633236562300441
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.01989391300000065
+fairness_error = 1.5818
+compute energy
+fair clustering energy = 1123.4603537392022
+clustering energy = 0.09341577599521367
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027724915000000294
+fairness_error = 1.5837
+compute energy
+fair clustering energy = 1123.4603540755543
+clustering energy = 0.0869470773900991
+......Job  done......
+0.3031985000000006
+lambda = 600, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5837 |Error lambda =  500
+Best  Avg balance 0.2713 | Avg Balance lambda =  500
+Best  Min balance 0.0016 | Min Balance lambda =  500
+Inside Lambda  700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04400603600000075
+fairness_error = 1.4531
+compute energy
+fair clustering energy = 1310.2037451758447
+clustering energy = 0.1066105059615996
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04267412399999948
+fairness_error = 1.5717
+compute energy
+fair clustering energy = 1310.2037454014817
+clustering energy = 0.09366123080058664
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.028675021999999828
+fairness_error = 1.5837
+compute energy
+fair clustering energy = 1310.2037457922424
+clustering energy = 0.0869470773900991
+......Job  done......
+0.38876136000000017
+lambda = 700, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5837 |Error lambda =  500
+Best  Avg balance 0.2713 | Avg Balance lambda =  500
+Best  Min balance 0.0016 | Min Balance lambda =  500
+Inside Lambda  800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025311797000000524
+fairness_error = 1.4530
+compute energy
+fair clustering energy = 1496.9471366686785
+clustering energy = 0.10654513996563297
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019823000999998897
+fairness_error = 1.5619
+compute energy
+fair clustering energy = 1496.9471369097353
+clustering energy = 0.09383398885892946
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020416092000001385
+fairness_error = 1.5834
+compute energy
+fair clustering energy = 1496.9471373281276
+clustering energy = 0.08648041369120918
+......Job  done......
+0.2915424469999994
+lambda = 800, 
+ fairness_error  1.58 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5834 |Error lambda =  800
+Best  Avg balance 0.2715 | Avg Balance lambda =  800
+Best  Min balance 0.0016 | Min Balance lambda =  800
+Inside Lambda  900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04764881600000059
+fairness_error = 1.4124
+compute energy
+fair clustering energy = 1683.6905280094509
+clustering energy = 0.10655126402634885
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04076133799999937
+fairness_error = 1.4871
+compute energy
+fair clustering energy = 1683.6905282298537
+clustering energy = 0.09497594594202718
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020497924000000722
+fairness_error = 1.5638
+compute energy
+fair clustering energy = 1683.6905286448737
+clustering energy = 0.08696310151193609
+......Job  done......
+0.4044062920000009
+lambda = 900, 
+ fairness_error  1.56 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5638 |Error lambda =  900
+Best  Avg balance 0.2717 | Avg Balance lambda =  900
+Best  Min balance 0.0016 | Min Balance lambda =  800
+Inside Lambda  1000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.026422707000000045
+fairness_error = 1.4029
+compute energy
+fair clustering energy = 1870.4339192054435
+clustering energy = 0.10684183713395878
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02452444799999931
+fairness_error = 1.4801
+compute energy
+fair clustering energy = 1870.433919422396
+clustering energy = 0.09536405960589311
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03532339999999934
+fairness_error = 1.5290
+compute energy
+fair clustering energy = 1870.4339198493083
+clustering energy = 0.08801277407536823
+......Job  done......
+0.29981596399999866
+lambda = 1000, 
+ fairness_error  1.53 and 
+ avg_balance =  0.27 
+ min_balance =  0.00
+Best fairness_error 1.5290 |Error lambda =  1000
+Best  Avg balance 0.2724 | Avg Balance lambda =  1000
+Best  Min balance 0.0018 | Min Balance lambda =  1000
+Inside Lambda  1100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03247614800000065
+fairness_error = 1.4003
+compute energy
+fair clustering energy = 2057.1773102636525
+clustering energy = 0.10710995238815624
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.045117141000000416
+fairness_error = 1.4794
+compute energy
+fair clustering energy = 2057.1773103830683
+clustering energy = 0.09490578822287565
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.023420000999999857
+fairness_error = 1.5011
+compute energy
+fair clustering energy = 2057.1773106131836
+clustering energy = 0.08541299267931635
+......Job  done......
+0.38619951799999974
+lambda = 1100, 
+ fairness_error  1.50 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.5011 |Error lambda =  1100
+Best  Avg balance 0.2767 | Avg Balance lambda =  1100
+Best  Min balance 0.0018 | Min Balance lambda =  1000
+Inside Lambda  1200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027508672999999817
+fairness_error = 1.3880
+compute energy
+fair clustering energy = 2243.920701190631
+clustering energy = 0.1072405252135038
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019911022999998806
+fairness_error = 1.4669
+compute energy
+fair clustering energy = 2243.9207013047844
+clustering energy = 0.09493573910594932
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019944306999999384
+fairness_error = 1.4892
+compute energy
+fair clustering energy = 2243.9207015384504
+clustering energy = 0.08525070067576657
+......Job  done......
+0.30164653299999955
+lambda = 1200, 
+ fairness_error  1.49 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4892 |Error lambda =  1200
+Best  Avg balance 0.2770 | Avg Balance lambda =  1200
+Best  Min balance 0.0020 | Min Balance lambda =  1200
+Inside Lambda  1300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.028727137000000624
+fairness_error = 1.3755
+compute energy
+fair clustering energy = 2430.664091992898
+clustering energy = 0.10784784793793145
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04874505600000134
+fairness_error = 1.4263
+compute energy
+fair clustering energy = 2430.664092038585
+clustering energy = 0.09586804672421767
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025585446999999206
+fairness_error = 1.4406
+compute energy
+fair clustering energy = 2430.6640922538268
+clustering energy = 0.0859977887270027
+......Job  done......
+0.3924890689999998
+lambda = 1300, 
+ fairness_error  1.44 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4406 |Error lambda =  1300
+Best  Avg balance 0.2777 | Avg Balance lambda =  1300
+Best  Min balance 0.0020 | Min Balance lambda =  1300
+Inside Lambda  1400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.030781680000000478
+fairness_error = 1.3639
+compute energy
+fair clustering energy = 2617.4074826769547
+clustering energy = 0.10753994691062996
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019818976999999904
+fairness_error = 1.4261
+compute energy
+fair clustering energy = 2617.407482712766
+clustering energy = 0.09585212909646046
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02005690500000057
+fairness_error = 1.4404
+compute energy
+fair clustering energy = 2617.4074829376814
+clustering energy = 0.08602816149108072
+......Job  done......
+0.2958718840000003
+lambda = 1400, 
+ fairness_error  1.44 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4404 |Error lambda =  1400
+Best  Avg balance 0.2778 | Avg Balance lambda =  1400
+Best  Min balance 0.0020 | Min Balance lambda =  1300
+Inside Lambda  1500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04261828299999948
+fairness_error = 1.3639
+compute energy
+fair clustering energy = 2804.1508732486573
+clustering energy = 0.10753994691062996
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0429476710000003
+fairness_error = 1.4259
+compute energy
+fair clustering energy = 2804.1508732859406
+clustering energy = 0.09577631457529368
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.023268000999999927
+fairness_error = 1.4293
+compute energy
+fair clustering energy = 2804.150873507388
+clustering energy = 0.08604774958488459
+......Job  done......
+0.39066769899999976
+lambda = 1500, 
+ fairness_error  1.43 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4293 |Error lambda =  1500
+Best  Avg balance 0.2780 | Avg Balance lambda =  1500
+Best  Min balance 0.0021 | Min Balance lambda =  1500
+Inside Lambda  1600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02762755500000047
+fairness_error = 1.3639
+compute energy
+fair clustering energy = 2990.894263713549
+clustering energy = 0.10753994691062996
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02028498199999973
+fairness_error = 1.4259
+compute energy
+fair clustering energy = 2990.89426375235
+clustering energy = 0.09577631457529368
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.024182738999998676
+fairness_error = 1.4292
+compute energy
+fair clustering energy = 2990.8942639809075
+clustering energy = 0.08606127979902523
+......Job  done......
+0.2887521349999993
+lambda = 1600, 
+ fairness_error  1.43 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4292 |Error lambda =  1600
+Best  Avg balance 0.2781 | Avg Balance lambda =  1600
+Best  Min balance 0.0021 | Min Balance lambda =  1600
+Inside Lambda  1700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.035393741000000034
+fairness_error = 1.3639
+compute energy
+fair clustering energy = 3177.63765407761
+clustering energy = 0.10753994691062996
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04381963400000011
+fairness_error = 1.4145
+compute energy
+fair clustering energy = 3177.637654117264
+clustering energy = 0.09583358509654794
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02501042100000106
+fairness_error = 1.4292
+compute energy
+fair clustering energy = 3177.637654356842
+clustering energy = 0.08606127979902523
+......Job  done......
+0.39248217100000105
+lambda = 1700, 
+ fairness_error  1.43 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4292 |Error lambda =  1600
+Best  Avg balance 0.2781 | Avg Balance lambda =  1600
+Best  Min balance 0.0021 | Min Balance lambda =  1600
+Inside Lambda  1800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.026241152000000767
+fairness_error = 1.3456
+compute energy
+fair clustering energy = 3364.381044345811
+clustering energy = 0.10776876051297357
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02011964199999916
+fairness_error = 1.3938
+compute energy
+fair clustering energy = 3364.3810443475354
+clustering energy = 0.09603129522541609
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02051629700000035
+fairness_error = 1.4064
+compute energy
+fair clustering energy = 3364.3810445945956
+clustering energy = 0.0865630920279643
+......Job  done......
+0.29691129499999924
+lambda = 1800, 
+ fairness_error  1.41 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4064 |Error lambda =  1800
+Best  Avg balance 0.2786 | Avg Balance lambda =  1800
+Best  Min balance 0.0021 | Min Balance lambda =  1800
+Inside Lambda  1900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03953553500000062
+fairness_error = 1.3452
+compute energy
+fair clustering energy = 3551.1244345233185
+clustering energy = 0.10748494686949384
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.041898181000000534
+fairness_error = 1.3936
+compute energy
+fair clustering energy = 3551.1244345024124
+clustering energy = 0.09604207670350373
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020915828999999775
+fairness_error = 1.4062
+compute energy
+fair clustering energy = 3551.124434765241
+clustering energy = 0.08655190853306172
+......Job  done......
+0.3877451409999999
+lambda = 1900, 
+ fairness_error  1.41 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.4062 |Error lambda =  1900
+Best  Avg balance 0.2787 | Avg Balance lambda =  1900
+Best  Min balance 0.0021 | Min Balance lambda =  1900
+Inside Lambda  2000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.028346493000000805
+fairness_error = 1.3378
+compute energy
+fair clustering energy = 3737.8678246152986
+clustering energy = 0.10777179421922867
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019782010000000128
+fairness_error = 1.3433
+compute energy
+fair clustering energy = 3737.867824532301
+clustering energy = 0.09730128794375137
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046685122999999606
+fairness_error = 1.3301
+compute energy
+fair clustering energy = 3737.867824608087
+clustering energy = 0.08827348783362243
+......Job  done......
+0.4007394580000003
+lambda = 2000, 
+ fairness_error  1.33 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.3301 |Error lambda =  2000
+Best  Avg balance 0.2804 | Avg Balance lambda =  2000
+Best  Min balance 0.0021 | Min Balance lambda =  1900
+Inside Lambda  2100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.042065012000000124
+fairness_error = 1.3308
+compute energy
+fair clustering energy = 3924.6112146266705
+clustering energy = 0.10816007640598446
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.026378065999999478
+fairness_error = 1.3396
+compute energy
+fair clustering energy = 3924.611214507139
+clustering energy = 0.09765118272517981
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021725764000001035
+fairness_error = 1.3267
+compute energy
+fair clustering energy = 3924.611214582554
+clustering energy = 0.08834028438723562
+......Job  done......
+0.3066563130000013
+lambda = 2100, 
+ fairness_error  1.33 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.3267 |Error lambda =  2100
+Best  Avg balance 0.2805 | Avg Balance lambda =  2100
+Best  Min balance 0.0021 | Min Balance lambda =  1900
+Inside Lambda  2200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.036917924000000824
+fairness_error = 1.3274
+compute energy
+fair clustering energy = 4111.354604561126
+clustering energy = 0.10827639322037808
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021001956000000988
+fairness_error = 1.3343
+compute energy
+fair clustering energy = 4111.354604205946
+clustering energy = 0.09710973291814629
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022503189000000035
+fairness_error = 1.3224
+compute energy
+fair clustering energy = 4111.354604137786
+clustering energy = 0.08853307783482878
+......Job  done......
+0.3144877510000015
+lambda = 2200, 
+ fairness_error  1.32 and 
+ avg_balance =  0.28 
+ min_balance =  0.00
+Best fairness_error 1.3224 |Error lambda =  2200
+Best  Avg balance 0.2825 | Avg Balance lambda =  2200
+Best  Min balance 0.0021 | Min Balance lambda =  2200
+Inside Lambda  2300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06653856299999994
+fairness_error = 1.3047
+compute energy
+fair clustering energy = 4298.0979944238
+clustering energy = 0.10898934178336672
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05453099400000028
+fairness_error = 1.2880
+compute energy
+fair clustering energy = 4298.097993912285
+clustering energy = 0.0977577563389489
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05578201900000046
+fairness_error = 1.2639
+compute energy
+fair clustering energy = 4298.097993547664
+clustering energy = 0.08890067315864325
+......Job  done......
+0.5070753250000006
+lambda = 2300, 
+ fairness_error  1.26 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2639 |Error lambda =  2300
+Best  Avg balance 0.2864 | Avg Balance lambda =  2300
+Best  Min balance 0.0021 | Min Balance lambda =  2300
+Inside Lambda  2400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06078737999999895
+fairness_error = 1.3047
+compute energy
+fair clustering energy = 4484.841384218638
+clustering energy = 0.10898934178336672
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027007982000000652
+fairness_error = 1.2880
+compute energy
+fair clustering energy = 4484.841383701815
+clustering energy = 0.0977577563389489
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020641429999999517
+fairness_error = 1.2637
+compute energy
+fair clustering energy = 4484.841383334015
+clustering energy = 0.0889529052731941
+......Job  done......
+0.39656428899999874
+lambda = 2400, 
+ fairness_error  1.26 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2637 |Error lambda =  2400
+Best  Avg balance 0.2865 | Avg Balance lambda =  2400
+Best  Min balance 0.0021 | Min Balance lambda =  2300
+Inside Lambda  2500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06638636399999953
+fairness_error = 1.3047
+compute energy
+fair clustering energy = 4671.5847739495875
+clustering energy = 0.10898934178336672
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0345703439999987
+fairness_error = 1.2876
+compute energy
+fair clustering energy = 4671.58477342895
+clustering energy = 0.09774431496639968
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0576890419999998
+fairness_error = 1.2636
+compute energy
+fair clustering energy = 4671.584773036477
+clustering energy = 0.08892852851095467
+......Job  done......
+0.5244627319999999
+lambda = 2500, 
+ fairness_error  1.26 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2636 |Error lambda =  2500
+Best  Avg balance 0.2866 | Avg Balance lambda =  2500
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  2600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.029865814999999074
+fairness_error = 1.2876
+compute energy
+fair clustering energy = 4858.3281636203465
+clustering energy = 0.10969572477851663
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02010170500000008
+fairness_error = 1.2669
+compute energy
+fair clustering energy = 4858.3281629818675
+clustering energy = 0.09835545304682469
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05322675899999929
+fairness_error = 1.2348
+compute energy
+fair clustering energy = 4858.328162565793
+clustering energy = 0.08984591727840163
+......Job  done......
+0.31504987299999954
+lambda = 2600, 
+ fairness_error  1.23 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2348 |Error lambda =  2600
+Best  Avg balance 0.2878 | Avg Balance lambda =  2600
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  2700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05343659400000078
+fairness_error = 1.2876
+compute energy
+fair clustering energy = 5045.071553235115
+clustering energy = 0.10969572477851663
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0391747940000009
+fairness_error = 1.2668
+compute energy
+fair clustering energy = 5045.0715525934
+clustering energy = 0.09830886691653973
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03974227099999794
+fairness_error = 1.2348
+compute energy
+fair clustering energy = 5045.071552169085
+clustering energy = 0.08984591727840163
+......Job  done......
+0.4125023730000006
+lambda = 2700, 
+ fairness_error  1.23 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2348 |Error lambda =  2600
+Best  Avg balance 0.2878 | Avg Balance lambda =  2600
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  2800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05296474099999671
+fairness_error = 1.2775
+compute energy
+fair clustering energy = 5231.814942796862
+clustering energy = 0.1098025038733379
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.033088058000000586
+fairness_error = 1.2668
+compute energy
+fair clustering energy = 5231.814942151313
+clustering energy = 0.09830886691653973
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.019720902000003093
+fairness_error = 1.2348
+compute energy
+fair clustering energy = 5231.814941726809
+clustering energy = 0.08984591727840163
+......Job  done......
+0.29933417099999815
+lambda = 2800, 
+ fairness_error  1.23 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2348 |Error lambda =  2600
+Best  Avg balance 0.2878 | Avg Balance lambda =  2600
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  2900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.036380390999998014
+fairness_error = 1.2645
+compute energy
+fair clustering energy = 5418.558332308962
+clustering energy = 0.11023870397329816
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021347879000000347
+fairness_error = 1.2481
+compute energy
+fair clustering energy = 5418.558331565204
+clustering energy = 0.09891730029720058
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020512605000000406
+fairness_error = 1.2117
+compute energy
+fair clustering energy = 5418.558331075244
+clustering energy = 0.0903199028166064
+......Job  done......
+0.3053237580000001
+lambda = 2900, 
+ fairness_error  1.21 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2117 |Error lambda =  2900
+Best  Avg balance 0.2891 | Avg Balance lambda =  2900
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  3000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05519496500000187
+fairness_error = 1.2645
+compute energy
+fair clustering energy = 5605.301721774962
+clustering energy = 0.11023870397329816
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.042769310000000615
+fairness_error = 1.2481
+compute energy
+fair clustering energy = 5605.301721030705
+clustering energy = 0.09891730029720058
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027796374000001123
+fairness_error = 1.2117
+compute energy
+fair clustering energy = 5605.301720539859
+clustering energy = 0.0903199028166064
+......Job  done......
+0.42927056400000296
+lambda = 3000, 
+ fairness_error  1.21 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2117 |Error lambda =  2900
+Best  Avg balance 0.2891 | Avg Balance lambda =  2900
+Best  Min balance 0.0021 | Min Balance lambda =  2500
+Inside Lambda  3100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05292833799999741
+fairness_error = 1.2645
+compute energy
+fair clustering energy = 5792.045111198025
+clustering energy = 0.11023870397329816
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04638032800000147
+fairness_error = 1.2380
+compute energy
+fair clustering energy = 5792.045110453489
+clustering energy = 0.09902379940809558
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.048384296999998355
+fairness_error = 1.2016
+compute energy
+fair clustering energy = 5792.045109961306
+clustering energy = 0.0904262837548262
+......Job  done......
+0.5173733870000028
+lambda = 3100, 
+ fairness_error  1.20 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.2016 |Error lambda =  3100
+Best  Avg balance 0.2891 | Avg Balance lambda =  3100
+Best  Min balance 0.0022 | Min Balance lambda =  3100
+Inside Lambda  3200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05154159099999944
+fairness_error = 1.2477
+compute energy
+fair clustering energy = 5978.78850058007
+clustering energy = 0.11078350330577802
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.023559189000000202
+fairness_error = 1.2099
+compute energy
+fair clustering energy = 5978.7884997236815
+clustering energy = 0.09961785133883438
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022125229000000246
+fairness_error = 1.1767
+compute energy
+fair clustering energy = 5978.7884990550765
+clustering energy = 0.09078610750657168
+......Job  done......
+0.29512636799999825
+lambda = 3200, 
+ fairness_error  1.18 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.1767 |Error lambda =  3200
+Best  Avg balance 0.2907 | Avg Balance lambda =  3200
+Best  Min balance 0.0022 | Min Balance lambda =  3200
+Inside Lambda  3300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06766530100000168
+fairness_error = 1.2205
+compute energy
+fair clustering energy = 6165.531889925326
+clustering energy = 0.11113388507447564
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04429708800000043
+fairness_error = 1.1741
+compute energy
+fair clustering energy = 6165.531889058472
+clustering energy = 0.10012974140379871
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04534835899999834
+fairness_error = 1.1332
+compute energy
+fair clustering energy = 6165.531888367441
+clustering energy = 0.09166036901612662
+......Job  done......
+0.5103661919999993
+lambda = 3300, 
+ fairness_error  1.13 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.1332 |Error lambda =  3300
+Best  Avg balance 0.2918 | Avg Balance lambda =  3300
+Best  Min balance 0.0027 | Min Balance lambda =  3300
+Inside Lambda  3400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06578469099999751
+fairness_error = 1.2123
+compute energy
+fair clustering energy = 6352.275279235501
+clustering energy = 0.11130010815899505
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025563642000001607
+fairness_error = 1.1738
+compute energy
+fair clustering energy = 6352.275278360595
+clustering energy = 0.10019103702813759
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02036387999999789
+fairness_error = 1.1249
+compute energy
+fair clustering energy = 6352.275277661405
+clustering energy = 0.09175876477126632
+......Job  done......
+0.38715252499999764
+lambda = 3400, 
+ fairness_error  1.12 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.1249 |Error lambda =  3400
+Best  Avg balance 0.2921 | Avg Balance lambda =  3400
+Best  Min balance 0.0028 | Min Balance lambda =  3400
+Inside Lambda  3500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02645323500000174
+fairness_error = 1.2054
+compute energy
+fair clustering energy = 6539.0186685135295
+clustering energy = 0.11154060044500946
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03973870799999801
+fairness_error = 1.1648
+compute energy
+fair clustering energy = 6539.018667583727
+clustering energy = 0.10048438199362142
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05198389199999909
+fairness_error = 1.1206
+compute energy
+fair clustering energy = 6539.0186668707165
+clustering energy = 0.09207042932600729
+......Job  done......
+0.3957966190000022
+lambda = 3500, 
+ fairness_error  1.12 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.1206 |Error lambda =  3500
+Best  Avg balance 0.2924 | Avg Balance lambda =  3500
+Best  Min balance 0.0028 | Min Balance lambda =  3400
+Inside Lambda  3600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.049760125999998905
+fairness_error = 1.2024
+compute energy
+fair clustering energy = 6725.762057761797
+clustering energy = 0.11142585352205625
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04980715499999988
+fairness_error = 1.1423
+compute energy
+fair clustering energy = 6725.762056620736
+clustering energy = 0.10019409560453152
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.043313029999996644
+fairness_error = 1.1011
+compute energy
+fair clustering energy = 6725.762055935266
+clustering energy = 0.0925080538378884
+......Job  done......
+0.5416045129999993
+lambda = 3600, 
+ fairness_error  1.10 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.1011 |Error lambda =  3600
+Best  Avg balance 0.2938 | Avg Balance lambda =  3600
+Best  Min balance 0.0029 | Min Balance lambda =  3600
+Inside Lambda  3700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.08870132300000222
+fairness_error = 1.2024
+compute energy
+fair clustering energy = 6912.5054469822135
+clustering energy = 0.11142585352205625
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03005695699999933
+fairness_error = 1.1410
+compute energy
+fair clustering energy = 6912.505445847374
+clustering energy = 0.10036935235102096
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.07356070299999828
+fairness_error = 1.0925
+compute energy
+fair clustering energy = 6912.505445098192
+clustering energy = 0.09314126596192063
+......Job  done......
+0.5695485060000003
+lambda = 3700, 
+ fairness_error  1.09 and 
+ avg_balance =  0.29 
+ min_balance =  0.00
+Best fairness_error 1.0925 |Error lambda =  3700
+Best  Avg balance 0.2945 | Avg Balance lambda =  3700
+Best  Min balance 0.0031 | Min Balance lambda =  3700
+Inside Lambda  3800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.1168968140000004
+fairness_error = 1.2024
+compute energy
+fair clustering energy = 7099.248836177917
+clustering energy = 0.11142585352205625
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0384314020000005
+fairness_error = 1.1396
+compute energy
+fair clustering energy = 7099.248835049339
+clustering energy = 0.10052193780278973
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.07137823600000104
+fairness_error = 1.0899
+compute energy
+fair clustering energy = 7099.248834203724
+clustering energy = 0.09384237914479332
+......Job  done......
+0.6971572170000009
+lambda = 3800, 
+ fairness_error  1.09 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 1.0899 |Error lambda =  3800
+Best  Avg balance 0.2958 | Avg Balance lambda =  3800
+Best  Min balance 0.0031 | Min Balance lambda =  3700
+Inside Lambda  3900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03218488999999991
+fairness_error = 1.1806
+compute energy
+fair clustering energy = 7285.992225349716
+clustering energy = 0.11174088528762027
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020923662000001286
+fairness_error = 1.1193
+compute energy
+fair clustering energy = 7285.99222416009
+clustering energy = 0.10110087776240029
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044582537000000144
+fairness_error = 1.0769
+compute energy
+fair clustering energy = 7285.9922232413155
+clustering energy = 0.09465774582944908
+......Job  done......
+0.43044231200000027
+lambda = 3900, 
+ fairness_error  1.08 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 1.0769 |Error lambda =  3900
+Best  Avg balance 0.2967 | Avg Balance lambda =  3900
+Best  Min balance 0.0032 | Min Balance lambda =  3900
+Inside Lambda  4000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0339861670000019
+fairness_error = 1.1734
+compute energy
+fair clustering energy = 7472.7356145005015
+clustering energy = 0.11180317089551961
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03180159700000118
+fairness_error = 1.1124
+compute energy
+fair clustering energy = 7472.735613320536
+clustering energy = 0.10128936340162342
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04701604499999945
+fairness_error = 1.0614
+compute energy
+fair clustering energy = 7472.735612395659
+clustering energy = 0.09529832164537622
+......Job  done......
+0.4265278039999991
+lambda = 4000, 
+ fairness_error  1.06 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 1.0614 |Error lambda =  4000
+Best  Avg balance 0.2975 | Avg Balance lambda =  4000
+Best  Min balance 0.0033 | Min Balance lambda =  4000
+Inside Lambda  4100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0571346840000011
+fairness_error = 1.1665
+compute energy
+fair clustering energy = 7659.479003632438
+clustering energy = 0.1119287598480887
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04576959000000258
+fairness_error = 1.1124
+compute energy
+fair clustering energy = 7659.479002452131
+clustering energy = 0.10128936340162342
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.031221599000001987
+fairness_error = 1.0614
+compute energy
+fair clustering energy = 7659.479001543806
+clustering energy = 0.09529832164537622
+......Job  done......
+0.42074593999999976
+lambda = 4100, 
+ fairness_error  1.06 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 1.0614 |Error lambda =  4000
+Best  Avg balance 0.2975 | Avg Balance lambda =  4000
+Best  Min balance 0.0033 | Min Balance lambda =  4000
+Inside Lambda  4200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03127488899999875
+fairness_error = 1.1472
+compute energy
+fair clustering energy = 7846.222392746102
+clustering energy = 0.11229316999735595
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04274149900000168
+fairness_error = 1.0870
+compute energy
+fair clustering energy = 7846.2223915206805
+clustering energy = 0.10191203655208136
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04451602399999999
+fairness_error = 1.0416
+compute energy
+fair clustering energy = 7846.222390576456
+clustering energy = 0.09594845167490895
+......Job  done......
+0.4170399660000008
+lambda = 4200, 
+ fairness_error  1.04 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 1.0416 |Error lambda =  4200
+Best  Avg balance 0.2983 | Avg Balance lambda =  4200
+Best  Min balance 0.0036 | Min Balance lambda =  4200
+Inside Lambda  4300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.031322503000001944
+fairness_error = 1.1410
+compute energy
+fair clustering energy = 8032.965781844395
+clustering energy = 0.11242249207249122
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03573420799999738
+fairness_error = 1.0529
+compute energy
+fair clustering energy = 8032.965780618024
+clustering energy = 0.1025266049929705
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03861043799999919
+fairness_error = 0.9801
+compute energy
+fair clustering energy = 8032.965779555636
+clustering energy = 0.09708513821955167
+......Job  done......
+0.4208154190000002
+lambda = 4300, 
+ fairness_error  0.98 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 0.9801 |Error lambda =  4300
+Best  Avg balance 0.3001 | Avg Balance lambda =  4300
+Best  Min balance 0.0048 | Min Balance lambda =  4300
+Inside Lambda  4400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04978327899999968
+fairness_error = 1.1408
+compute energy
+fair clustering energy = 8219.709170927814
+clustering energy = 0.11242475264860907
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022632492999999698
+fairness_error = 1.0529
+compute energy
+fair clustering energy = 8219.709169700305
+clustering energy = 0.1025266049929705
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02303165300000032
+fairness_error = 0.9801
+compute energy
+fair clustering energy = 8219.709168660775
+clustering energy = 0.09708513821955167
+......Job  done......
+0.31333860399999836
+lambda = 4400, 
+ fairness_error  0.98 and 
+ avg_balance =  0.30 
+ min_balance =  0.00
+Best fairness_error 0.9801 |Error lambda =  4300
+Best  Avg balance 0.3001 | Avg Balance lambda =  4300
+Best  Min balance 0.0048 | Min Balance lambda =  4300
+Inside Lambda  4500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04604894200000231
+fairness_error = 1.0672
+compute energy
+fair clustering energy = 8406.452559998712
+clustering energy = 0.11458304226698912
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03285251199999806
+fairness_error = 1.0242
+compute energy
+fair clustering energy = 8406.452558684805
+clustering energy = 0.10354426722284904
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02194145800000058
+fairness_error = 0.9607
+compute energy
+fair clustering energy = 8406.45255769678
+clustering energy = 0.09781037564227812
+......Job  done......
+0.42059322000000066
+lambda = 4500, 
+ fairness_error  0.96 and 
+ avg_balance =  0.30 
+ min_balance =  0.01
+Best fairness_error 0.9607 |Error lambda =  4500
+Best  Avg balance 0.3007 | Avg Balance lambda =  4500
+Best  Min balance 0.0053 | Min Balance lambda =  4500
+Inside Lambda  4600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04101900299999883
+fairness_error = 1.0496
+compute energy
+fair clustering energy = 8593.195949058469
+clustering energy = 0.1149029726399422
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.020394528000000633
+fairness_error = 0.9483
+compute energy
+fair clustering energy = 8593.195947604045
+clustering energy = 0.10543742783925847
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.032650334999999586
+fairness_error = 0.9117
+compute energy
+fair clustering energy = 8593.195946434487
+clustering energy = 0.09893926640430983
+......Job  done......
+0.29267255999999975
+lambda = 4600, 
+ fairness_error  0.91 and 
+ avg_balance =  0.30 
+ min_balance =  0.01
+Best fairness_error 0.9117 |Error lambda =  4600
+Best  Avg balance 0.3031 | Avg Balance lambda =  4600
+Best  Min balance 0.0064 | Min Balance lambda =  4600
+Inside Lambda  4700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.048629589000000806
+fairness_error = 1.0496
+compute energy
+fair clustering energy = 8779.93933810812
+clustering energy = 0.1149029726399422
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.047177889000000306
+fairness_error = 0.9451
+compute energy
+fair clustering energy = 8779.93933666862
+clustering energy = 0.10550735647896303
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04515956899999907
+fairness_error = 0.8864
+compute energy
+fair clustering energy = 8779.939335506886
+clustering energy = 0.10004635442055987
+......Job  done......
+0.42386609000000064
+lambda = 4700, 
+ fairness_error  0.89 and 
+ avg_balance =  0.30 
+ min_balance =  0.01
+Best fairness_error 0.8864 |Error lambda =  4700
+Best  Avg balance 0.3039 | Avg Balance lambda =  4700
+Best  Min balance 0.0074 | Min Balance lambda =  4700
+Inside Lambda  4800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02610200299999832
+fairness_error = 1.0496
+compute energy
+fair clustering energy = 8966.682727148633
+clustering energy = 0.1149029726399422
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04288454199999947
+fairness_error = 0.9387
+compute energy
+fair clustering energy = 8966.682725724952
+clustering energy = 0.10581124633256378
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.030634866999999844
+fairness_error = 0.8816
+compute energy
+fair clustering energy = 8966.682724503726
+clustering energy = 0.1001401973272098
+......Job  done......
+0.3838269380000021
+lambda = 4800, 
+ fairness_error  0.88 and 
+ avg_balance =  0.30 
+ min_balance =  0.01
+Best fairness_error 0.8816 |Error lambda =  4800
+Best  Avg balance 0.3042 | Avg Balance lambda =  4800
+Best  Min balance 0.0075 | Min Balance lambda =  4800
+Inside Lambda  4900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03187606300000212
+fairness_error = 0.9929
+compute energy
+fair clustering energy = 9153.426116182967
+clustering energy = 0.1174940519473604
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04831551200000206
+fairness_error = 0.9155
+compute energy
+fair clustering energy = 9153.426114666177
+clustering energy = 0.10703749386957373
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04712170599999865
+fairness_error = 0.8624
+compute energy
+fair clustering energy = 9153.42611353864
+clustering energy = 0.10122633589190944
+......Job  done......
+0.4215271999999999
+lambda = 4900, 
+ fairness_error  0.86 and 
+ avg_balance =  0.30 
+ min_balance =  0.01
+Best fairness_error 0.8624 |Error lambda =  4900
+Best  Avg balance 0.3049 | Avg Balance lambda =  4900
+Best  Min balance 0.0083 | Min Balance lambda =  4900
+Inside Lambda  5000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03322833700000061
+fairness_error = 0.9843
+compute energy
+fair clustering energy = 9340.169505209595
+clustering energy = 0.11791772511010379
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05056093900000036
+fairness_error = 0.8819
+compute energy
+fair clustering energy = 9340.169503633566
+clustering energy = 0.10879046777551071
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05134122699999821
+fairness_error = 0.8437
+compute energy
+fair clustering energy = 9340.169502441895
+clustering energy = 0.101454893235843
+......Job  done......
+0.4283245359999981
+lambda = 5000, 
+ fairness_error  0.84 and 
+ avg_balance =  0.31 
+ min_balance =  0.01
+Best fairness_error 0.8437 |Error lambda =  5000
+Best  Avg balance 0.3063 | Avg Balance lambda =  5000
+Best  Min balance 0.0088 | Min Balance lambda =  5000
+Inside Lambda  5100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.056128418000000124
+fairness_error = 0.9815
+compute energy
+fair clustering energy = 9526.91289423131
+clustering energy = 0.11811454494195628
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046017036999998595
+fairness_error = 0.8729
+compute energy
+fair clustering energy = 9526.912892663442
+clustering energy = 0.10936895181220141
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03991912000000042
+fairness_error = 0.8303
+compute energy
+fair clustering energy = 9526.912891448474
+clustering energy = 0.10198749228124004
+......Job  done......
+0.4097658349999982
+lambda = 5100, 
+ fairness_error  0.83 and 
+ avg_balance =  0.31 
+ min_balance =  0.01
+Best fairness_error 0.8303 |Error lambda =  5100
+Best  Avg balance 0.3069 | Avg Balance lambda =  5100
+Best  Min balance 0.0096 | Min Balance lambda =  5100
+Inside Lambda  5200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03533986400000089
+fairness_error = 0.9814
+compute energy
+fair clustering energy = 9713.656283249296
+clustering energy = 0.11809607665530208
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046143382000000344
+fairness_error = 0.8727
+compute energy
+fair clustering energy = 9713.656281692683
+clustering energy = 0.1094032326950547
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044486073000001625
+fairness_error = 0.7972
+compute energy
+fair clustering energy = 9713.656280493076
+clustering energy = 0.10421521911708798
+......Job  done......
+0.4291976419999983
+lambda = 5200, 
+ fairness_error  0.80 and 
+ avg_balance =  0.31 
+ min_balance =  0.01
+Best fairness_error 0.7972 |Error lambda =  5200
+Best  Avg balance 0.3086 | Avg Balance lambda =  5200
+Best  Min balance 0.0115 | Min Balance lambda =  5200
+Inside Lambda  5300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05773059600000252
+fairness_error = 0.9233
+compute energy
+fair clustering energy = 9900.399672263286
+clustering energy = 0.1218455833140677
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027466507999999834
+fairness_error = 0.8339
+compute energy
+fair clustering energy = 9900.399670541765
+clustering energy = 0.11218061944967728
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.030125632999997265
+fairness_error = 0.7496
+compute energy
+fair clustering energy = 9900.399669368995
+clustering energy = 0.10792048242252417
+......Job  done......
+0.41677606300000036
+lambda = 5300, 
+ fairness_error  0.75 and 
+ avg_balance =  0.31 
+ min_balance =  0.02
+Best fairness_error 0.7496 |Error lambda =  5300
+Best  Avg balance 0.3114 | Avg Balance lambda =  5300
+Best  Min balance 0.0152 | Min Balance lambda =  5300
+Inside Lambda  5400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02632814800000105
+fairness_error = 0.9190
+compute energy
+fair clustering energy = 10087.143061275241
+clustering energy = 0.12224604787047255
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02094086900000036
+fairness_error = 0.8268
+compute energy
+fair clustering energy = 10087.143059442154
+clustering energy = 0.1129498826346711
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04529657299999812
+fairness_error = 0.7381
+compute energy
+fair clustering energy = 10087.14305827244
+clustering energy = 0.10872534441214388
+......Job  done......
+0.2948597510000006
+lambda = 5400, 
+ fairness_error  0.74 and 
+ avg_balance =  0.31 
+ min_balance =  0.02
+Best fairness_error 0.7381 |Error lambda =  5400
+Best  Avg balance 0.3131 | Avg Balance lambda =  5400
+Best  Min balance 0.0161 | Min Balance lambda =  5400
+Inside Lambda  5500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05135053799999767
+fairness_error = 0.9128
+compute energy
+fair clustering energy = 10273.886450286025
+clustering energy = 0.12247702960442419
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.026144264999999223
+fairness_error = 0.7894
+compute energy
+fair clustering energy = 10273.886448375906
+clustering energy = 0.11613015434793716
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02079186000000277
+fairness_error = 0.7242
+compute energy
+fair clustering energy = 10273.886447101115
+clustering energy = 0.10991989597036822
+......Job  done......
+0.42798731299999915
+lambda = 5500, 
+ fairness_error  0.72 and 
+ avg_balance =  0.31 
+ min_balance =  0.02
+Best fairness_error 0.7242 |Error lambda =  5500
+Best  Avg balance 0.3142 | Avg Balance lambda =  5500
+Best  Min balance 0.0173 | Min Balance lambda =  5500
+Inside Lambda  5600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05765835200000069
+fairness_error = 0.9108
+compute energy
+fair clustering energy = 10460.629839295141
+clustering energy = 0.12259074655311819
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05084948700000069
+fairness_error = 0.7782
+compute energy
+fair clustering energy = 10460.629837400562
+clustering energy = 0.11725184856031712
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04103196299999823
+fairness_error = 0.7139
+compute energy
+fair clustering energy = 10460.629835914777
+clustering energy = 0.11084446295568817
+......Job  done......
+0.41967620999999866
+lambda = 5600, 
+ fairness_error  0.71 and 
+ avg_balance =  0.32 
+ min_balance =  0.02
+Best fairness_error 0.7139 |Error lambda =  5600
+Best  Avg balance 0.3165 | Avg Balance lambda =  5600
+Best  Min balance 0.0180 | Min Balance lambda =  5600
+Inside Lambda  5700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04211037500000003
+fairness_error = 0.8682
+compute energy
+fair clustering energy = 10647.373228304328
+clustering energy = 0.12637499590101964
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044052959000001835
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 10647.373226266018
+clustering energy = 0.12025590698310573
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0305895679999999
+fairness_error = 0.6832
+compute energy
+fair clustering energy = 10647.373224799603
+clustering energy = 0.11437083013383553
+......Job  done......
+0.430847932999999
+lambda = 5700, 
+ fairness_error  0.68 and 
+ avg_balance =  0.32 
+ min_balance =  0.02
+Best fairness_error 0.6832 |Error lambda =  5700
+Best  Avg balance 0.3199 | Avg Balance lambda =  5700
+Best  Min balance 0.0213 | Min Balance lambda =  5700
+Inside Lambda  5800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.036203890999999544
+fairness_error = 0.8682
+compute energy
+fair clustering energy = 10834.11661731356
+clustering energy = 0.12637499590101964
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04925451500000122
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 10834.11661530228
+clustering energy = 0.12025590698310573
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04966800700000107
+fairness_error = 0.6670
+compute energy
+fair clustering energy = 10834.116613855193
+clustering energy = 0.1168615595506175
+......Job  done......
+0.4240264460000027
+lambda = 5800, 
+ fairness_error  0.67 and 
+ avg_balance =  0.32 
+ min_balance =  0.02
+Best fairness_error 0.6670 |Error lambda =  5800
+Best  Avg balance 0.3221 | Avg Balance lambda =  5800
+Best  Min balance 0.0233 | Min Balance lambda =  5800
+Inside Lambda  5900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046858514000000184
+fairness_error = 0.8667
+compute energy
+fair clustering energy = 11020.860006324632
+clustering energy = 0.126550138119641
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04441662400000013
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 11020.860004329741
+clustering energy = 0.12025590698310573
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05205008500000119
+fairness_error = 0.6643
+compute energy
+fair clustering energy = 11020.860002913425
+clustering energy = 0.11731382478193897
+......Job  done......
+0.4301944359999972
+lambda = 5900, 
+ fairness_error  0.66 and 
+ avg_balance =  0.32 
+ min_balance =  0.02
+Best fairness_error 0.6643 |Error lambda =  5900
+Best  Avg balance 0.3224 | Avg Balance lambda =  5900
+Best  Min balance 0.0237 | Min Balance lambda =  5900
+Inside Lambda  6000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05006474099999991
+fairness_error = 0.8581
+compute energy
+fair clustering energy = 11207.603395337119
+clustering energy = 0.12651807675851412
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06816600999999878
+fairness_error = 0.7440
+compute energy
+fair clustering energy = 11207.603393290243
+clustering energy = 0.12018211810200086
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.060378665999998304
+fairness_error = 0.6579
+compute energy
+fair clustering energy = 11207.603391877175
+clustering energy = 0.11756728425232188
+......Job  done......
+0.5275421789999974
+lambda = 6000, 
+ fairness_error  0.66 and 
+ avg_balance =  0.32 
+ min_balance =  0.02
+Best fairness_error 0.6579 |Error lambda =  6000
+Best  Avg balance 0.3232 | Avg Balance lambda =  6000
+Best  Min balance 0.0237 | Min Balance lambda =  5900
+Inside Lambda  6100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03666653400000186
+fairness_error = 0.8537
+compute energy
+fair clustering energy = 11394.346784352445
+clustering energy = 0.12694513160722565
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04228112199999856
+fairness_error = 0.7082
+compute energy
+fair clustering energy = 11394.346782312881
+clustering energy = 0.12517945194918134
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022293223000001916
+fairness_error = 0.6232
+compute energy
+fair clustering energy = 11394.346780684013
+clustering energy = 0.12288197109888621
+......Job  done......
+0.2816649250000012
+lambda = 6100, 
+ fairness_error  0.62 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.6232 |Error lambda =  6100
+Best  Avg balance 0.3276 | Avg Balance lambda =  6100
+Best  Min balance 0.0286 | Min Balance lambda =  6100
+Inside Lambda  6200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05584672000000168
+fairness_error = 0.8157
+compute energy
+fair clustering energy = 11581.09017336958
+clustering energy = 0.13150593051380444
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05097947899999866
+fairness_error = 0.6856
+compute energy
+fair clustering energy = 11581.09017115897
+clustering energy = 0.12891568496505013
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.037442007999999305
+fairness_error = 0.5964
+compute energy
+fair clustering energy = 11581.090169536867
+clustering energy = 0.12815669848837263
+......Job  done......
+0.4084045759999988
+lambda = 6200, 
+ fairness_error  0.60 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.5964 |Error lambda =  6200
+Best  Avg balance 0.3318 | Avg Balance lambda =  6200
+Best  Min balance 0.0312 | Min Balance lambda =  6200
+Inside Lambda  6300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06032533499999815
+fairness_error = 0.8157
+compute energy
+fair clustering energy = 11767.833562390875
+clustering energy = 0.13150593051380444
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.032145204999999066
+fairness_error = 0.6856
+compute energy
+fair clustering energy = 11767.83356021094
+clustering energy = 0.12891568496505013
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02782790699999893
+fairness_error = 0.5964
+compute energy
+fair clustering energy = 11767.833558610975
+clustering energy = 0.12815669848837263
+......Job  done......
+0.42050200999999987
+lambda = 6300, 
+ fairness_error  0.60 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.5964 |Error lambda =  6200
+Best  Avg balance 0.3318 | Avg Balance lambda =  6200
+Best  Min balance 0.0312 | Min Balance lambda =  6200
+Inside Lambda  6400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05357249700000111
+fairness_error = 0.8157
+compute energy
+fair clustering energy = 11954.576951415003
+clustering energy = 0.13150593051380444
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04928685400000177
+fairness_error = 0.6840
+compute energy
+fair clustering energy = 11954.576949265884
+clustering energy = 0.12911636034654972
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04097723300000311
+fairness_error = 0.5924
+compute energy
+fair clustering energy = 11954.57694766563
+clustering energy = 0.1284856671663679
+......Job  done......
+0.42408444700000203
+lambda = 6400, 
+ fairness_error  0.59 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.5924 |Error lambda =  6400
+Best  Avg balance 0.3325 | Avg Balance lambda =  6400
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  6500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04097463799999446
+fairness_error = 0.8157
+compute energy
+fair clustering energy = 12141.320340443599
+clustering energy = 0.13150593051380444
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04540902100000466
+fairness_error = 0.6840
+compute energy
+fair clustering energy = 12141.320338323883
+clustering energy = 0.12911636034654972
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027059983000000898
+fairness_error = 0.5880
+compute energy
+fair clustering energy = 12141.320336747252
+clustering energy = 0.1295151763550937
+......Job  done......
+0.39965830500000266
+lambda = 6500, 
+ fairness_error  0.59 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.5880 |Error lambda =  6500
+Best  Avg balance 0.3332 | Avg Balance lambda =  6500
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  6600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04717882799999984
+fairness_error = 0.8065
+compute energy
+fair clustering energy = 12328.063729477217
+clustering energy = 0.13216133902778493
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05779397199999892
+fairness_error = 0.6805
+compute energy
+fair clustering energy = 12328.063727307868
+clustering energy = 0.12967974969592966
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02963488099999978
+fairness_error = 0.5763
+compute energy
+fair clustering energy = 12328.063725770653
+clustering energy = 0.13271682632707416
+......Job  done......
+0.4187064430000049
+lambda = 6600, 
+ fairness_error  0.58 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.5763 |Error lambda =  6600
+Best  Avg balance 0.3357 | Avg Balance lambda =  6600
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  6700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.051398343999998986
+fairness_error = 0.7513
+compute energy
+fair clustering energy = 12514.807118514875
+clustering energy = 0.14097447428430154
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044369375000002265
+fairness_error = 0.6353
+compute energy
+fair clustering energy = 12514.807115977084
+clustering energy = 0.1378701254661454
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.024839882999998508
+fairness_error = 0.5499
+compute energy
+fair clustering energy = 12514.807114343937
+clustering energy = 0.13754904093997666
+......Job  done......
+0.43349326799999943
+lambda = 6700, 
+ fairness_error  0.55 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.5499 |Error lambda =  6700
+Best  Avg balance 0.3413 | Avg Balance lambda =  6700
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  6800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03163311499999821
+fairness_error = 0.7513
+compute energy
+fair clustering energy = 12701.55050755734
+clustering energy = 0.14097447428430154
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02029647500000209
+fairness_error = 0.6347
+compute energy
+fair clustering energy = 12701.550505054938
+clustering energy = 0.13799373460081554
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025706709000004935
+fairness_error = 0.5447
+compute energy
+fair clustering energy = 12701.550503436878
+clustering energy = 0.13906851747830373
+......Job  done......
+0.3242619669999982
+lambda = 6800, 
+ fairness_error  0.54 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.5447 |Error lambda =  6800
+Best  Avg balance 0.3426 | Avg Balance lambda =  6800
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  6900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06108407000000682
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 12888.293896604864
+clustering energy = 0.14104400471062473
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044998279999994395
+fairness_error = 0.6225
+compute energy
+fair clustering energy = 12888.293894131291
+clustering energy = 0.14132735019239995
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02562217100000197
+fairness_error = 0.5397
+compute energy
+fair clustering energy = 12888.2938923954
+clustering energy = 0.1407179365724116
+......Job  done......
+0.4270698280000005
+lambda = 6900, 
+ fairness_error  0.54 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.5397 |Error lambda =  6900
+Best  Avg balance 0.3438 | Avg Balance lambda =  6900
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  7000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05792878899999465
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 13075.037285658882
+clustering energy = 0.14104400471062473
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.039693540999998334
+fairness_error = 0.6094
+compute energy
+fair clustering energy = 13075.037283219754
+clustering energy = 0.14458808111121568
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.036503820999996606
+fairness_error = 0.5270
+compute energy
+fair clustering energy = 13075.037281293507
+clustering energy = 0.14455501935003046
+......Job  done......
+0.4233077589999965
+lambda = 7000, 
+ fairness_error  0.53 and 
+ avg_balance =  0.35 
+ min_balance =  0.03
+Best fairness_error 0.5270 |Error lambda =  7000
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  7100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025045023999993532
+fairness_error = 0.7512
+compute energy
+fair clustering energy = 13261.780674717422
+clustering energy = 0.14104400471062473
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04450932299999977
+fairness_error = 0.6089
+compute energy
+fair clustering energy = 13261.780672312876
+clustering energy = 0.14470757239187337
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04786781900000392
+fairness_error = 0.5171
+compute energy
+fair clustering energy = 13261.780670401604
+clustering energy = 0.1475630369747889
+......Job  done......
+0.38966391199999606
+lambda = 7100, 
+ fairness_error  0.52 and 
+ avg_balance =  0.35 
+ min_balance =  0.03
+Best fairness_error 0.5171 |Error lambda =  7100
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0317 | Min Balance lambda =  6400
+Inside Lambda  7200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05221919299999911
+fairness_error = 0.7383
+compute energy
+fair clustering energy = 13448.52406378295
+clustering energy = 0.14152121021358166
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.035716400999994846
+fairness_error = 0.5950
+compute energy
+fair clustering energy = 13448.524061298423
+clustering energy = 0.1449232506849385
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03869648999999953
+fairness_error = 0.5067
+compute energy
+fair clustering energy = 13448.524059357915
+clustering energy = 0.14834782636023558
+......Job  done......
+0.42885150499999725
+lambda = 7200, 
+ fairness_error  0.51 and 
+ avg_balance =  0.35 
+ min_balance =  0.03
+Best fairness_error 0.5067 |Error lambda =  7200
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0322 | Min Balance lambda =  7200
+Inside Lambda  7300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.054243036000002576
+fairness_error = 0.7023
+compute energy
+fair clustering energy = 13635.267452854063
+clustering energy = 0.14863116871170057
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04236414199999672
+fairness_error = 0.5693
+compute energy
+fair clustering energy = 13635.267450063482
+clustering energy = 0.152494775663369
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03401937099999941
+fairness_error = 0.4837
+compute energy
+fair clustering energy = 13635.267448029936
+clustering energy = 0.15553816041712132
+......Job  done......
+0.41874418599999785
+lambda = 7300, 
+ fairness_error  0.48 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4837 |Error lambda =  7300
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0322 | Min Balance lambda =  7200
+Inside Lambda  7400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05465196699999808
+fairness_error = 0.7023
+compute energy
+fair clustering energy = 13822.010841931993
+clustering energy = 0.14863116871170057
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04953101299999929
+fairness_error = 0.5689
+compute energy
+fair clustering energy = 13822.01083918
+clustering energy = 0.15261524242001823
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.050446772000000806
+fairness_error = 0.4803
+compute energy
+fair clustering energy = 13822.010837162252
+clustering energy = 0.1564536583374876
+......Job  done......
+0.5187412870000045
+lambda = 7400, 
+ fairness_error  0.48 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4803 |Error lambda =  7400
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0322 | Min Balance lambda =  7200
+Inside Lambda  7500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.038517777999999225
+fairness_error = 0.7016
+compute energy
+fair clustering energy = 14008.754231013689
+clustering energy = 0.1488085227008762
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.048602795000000754
+fairness_error = 0.5680
+compute energy
+fair clustering energy = 14008.754228292615
+clustering energy = 0.15293031150996628
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.043551578000005975
+fairness_error = 0.4748
+compute energy
+fair clustering energy = 14008.754226290408
+clustering energy = 0.15815822580435768
+......Job  done......
+0.41558905899999843
+lambda = 7500, 
+ fairness_error  0.47 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4748 |Error lambda =  7500
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0322 | Min Balance lambda =  7500
+Inside Lambda  7600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.048035984000001974
+fairness_error = 0.7001
+compute energy
+fair clustering energy = 14195.49762010435
+clustering energy = 0.148911721322889
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04327750499999894
+fairness_error = 0.5667
+compute energy
+fair clustering energy = 14195.497617419109
+clustering energy = 0.15315613423151397
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022255844999996555
+fairness_error = 0.4696
+compute energy
+fair clustering energy = 14195.497615436152
+clustering energy = 0.16026537322947387
+......Job  done......
+0.41684020799999644
+lambda = 7600, 
+ fairness_error  0.47 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4696 |Error lambda =  7600
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0322 | Min Balance lambda =  7500
+Inside Lambda  7700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027653577999998902
+fairness_error = 0.6994
+compute energy
+fair clustering energy = 14382.2410092008
+clustering energy = 0.1490289071572466
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021087845000003824
+fairness_error = 0.5645
+compute energy
+fair clustering energy = 14382.24100654266
+clustering energy = 0.15323406056209254
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.042171853000006365
+fairness_error = 0.4674
+compute energy
+fair clustering energy = 14382.241004571759
+clustering energy = 0.16057534099904913
+......Job  done......
+0.30351794799999965
+lambda = 7700, 
+ fairness_error  0.47 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4674 |Error lambda =  7700
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0324 | Min Balance lambda =  7700
+Inside Lambda  7800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046720110000002535
+fairness_error = 0.6994
+compute energy
+fair clustering energy = 14568.984398302979
+clustering energy = 0.1490289071572466
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05356162000000353
+fairness_error = 0.5596
+compute energy
+fair clustering energy = 14568.984395682028
+clustering energy = 0.15484685291349898
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0392501569999979
+fairness_error = 0.4642
+compute energy
+fair clustering energy = 14568.984393652821
+clustering energy = 0.16190563962077364
+......Job  done......
+0.39409095599999944
+lambda = 7800, 
+ fairness_error  0.46 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4642 |Error lambda =  7800
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0324 | Min Balance lambda =  7800
+Inside Lambda  7900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05045535800000067
+fairness_error = 0.6966
+compute energy
+fair clustering energy = 14755.727787413203
+clustering energy = 0.14915983336422034
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04152883100000082
+fairness_error = 0.5446
+compute energy
+fair clustering energy = 14755.727784801438
+clustering energy = 0.15999335827527483
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02224295500000295
+fairness_error = 0.4514
+compute energy
+fair clustering energy = 14755.727782568081
+clustering energy = 0.16723173247753342
+......Job  done......
+0.424430227000002
+lambda = 7900, 
+ fairness_error  0.45 and 
+ avg_balance =  0.34 
+ min_balance =  0.03
+Best fairness_error 0.4514 |Error lambda =  7900
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0328 | Min Balance lambda =  7900
+Inside Lambda  8000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0549483090000038
+fairness_error = 0.6695
+compute energy
+fair clustering energy = 14942.471176528528
+clustering energy = 0.15625712309061157
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03583384499999909
+fairness_error = 0.5362
+compute energy
+fair clustering energy = 14942.471173658709
+clustering energy = 0.16093881324925707
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021709432999998057
+fairness_error = 0.4433
+compute energy
+fair clustering energy = 14942.4711715328
+clustering energy = 0.16735969996777467
+......Job  done......
+0.40536546700000287
+lambda = 8000, 
+ fairness_error  0.44 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4433 |Error lambda =  8000
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0330 | Min Balance lambda =  8000
+Inside Lambda  8100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.058096928000004766
+fairness_error = 0.6695
+compute energy
+fair clustering energy = 15129.214565650866
+clustering energy = 0.15625712309061157
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046642177999999035
+fairness_error = 0.5289
+compute energy
+fair clustering energy = 15129.214562819938
+clustering energy = 0.16344812288638444
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04321825699999948
+fairness_error = 0.4381
+compute energy
+fair clustering energy = 15129.21456058419
+clustering energy = 0.16933696513789087
+......Job  done......
+0.5306850650000001
+lambda = 8100, 
+ fairness_error  0.44 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4381 |Error lambda =  8100
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0330 | Min Balance lambda =  8100
+Inside Lambda  8200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.051051853000004144
+fairness_error = 0.6695
+compute energy
+fair clustering energy = 15315.957954779982
+clustering energy = 0.15625712309061157
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05308124500000133
+fairness_error = 0.5210
+compute energy
+fair clustering energy = 15315.957951985865
+clustering energy = 0.16680604756030482
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046774951000003284
+fairness_error = 0.4310
+compute energy
+fair clustering energy = 15315.957949619074
+clustering energy = 0.17282852352774025
+......Job  done......
+0.5006631980000051
+lambda = 8200, 
+ fairness_error  0.43 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4310 |Error lambda =  8200
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0330 | Min Balance lambda =  8200
+Inside Lambda  8300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03558158400000622
+fairness_error = 0.6692
+compute energy
+fair clustering energy = 15502.701343914665
+clustering energy = 0.15616661307675317
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021442730000003962
+fairness_error = 0.5172
+compute energy
+fair clustering energy = 15502.701341149852
+clustering energy = 0.16807930974371033
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04463915000000185
+fairness_error = 0.4267
+compute energy
+fair clustering energy = 15502.701338729688
+clustering energy = 0.17493887523552143
+......Job  done......
+0.4010552869999984
+lambda = 8300, 
+ fairness_error  0.43 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4267 |Error lambda =  8300
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0330 | Min Balance lambda =  8300
+Inside Lambda  8400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06212351199999944
+fairness_error = 0.6669
+compute energy
+fair clustering energy = 15689.44473305738
+clustering energy = 0.1561026295011665
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.039508985999994195
+fairness_error = 0.5151
+compute energy
+fair clustering energy = 15689.444730244617
+clustering energy = 0.1678201098007177
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0460538670000048
+fairness_error = 0.4227
+compute energy
+fair clustering energy = 15689.444727868447
+clustering energy = 0.17587503207837107
+......Job  done......
+0.5286855860000017
+lambda = 8400, 
+ fairness_error  0.42 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4227 |Error lambda =  8400
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0331 | Min Balance lambda =  8400
+Inside Lambda  8500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05175447399999911
+fairness_error = 0.6663
+compute energy
+fair clustering energy = 15876.188122205953
+clustering energy = 0.15588077677535317
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05476221300000361
+fairness_error = 0.5144
+compute energy
+fair clustering energy = 15876.188119404029
+clustering energy = 0.16829926593634115
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04110640199999693
+fairness_error = 0.4200
+compute energy
+fair clustering energy = 15876.188117067517
+clustering energy = 0.177602803892841
+......Job  done......
+0.4237987409999988
+lambda = 8500, 
+ fairness_error  0.42 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4200 |Error lambda =  8500
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0331 | Min Balance lambda =  8500
+Inside Lambda  8600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03302434200000448
+fairness_error = 0.6657
+compute energy
+fair clustering energy = 16062.931511361547
+clustering energy = 0.15591577937591738
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.040032578999998236
+fairness_error = 0.5144
+compute energy
+fair clustering energy = 16062.931508590133
+clustering energy = 0.16814469365021623
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.064702613999998
+fairness_error = 0.4184
+compute energy
+fair clustering energy = 16062.931506286883
+clustering energy = 0.1782144425386658
+......Job  done......
+0.4261534490000045
+lambda = 8600, 
+ fairness_error  0.42 and 
+ avg_balance =  0.33 
+ min_balance =  0.03
+Best fairness_error 0.4184 |Error lambda =  8600
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0331 | Min Balance lambda =  8600
+Inside Lambda  8700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04151581800000059
+fairness_error = 0.6357
+compute energy
+fair clustering energy = 16249.674900522572
+clustering energy = 0.16515069400289306
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04505716599999943
+fairness_error = 0.4929
+compute energy
+fair clustering energy = 16249.674897436718
+clustering energy = 0.17774558675273333
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04235765600000008
+fairness_error = 0.3996
+compute energy
+fair clustering energy = 16249.674895063246
+clustering energy = 0.18593970097503654
+......Job  done......
+0.42870536599999554
+lambda = 8700, 
+ fairness_error  0.40 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3996 |Error lambda =  8700
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0331 | Min Balance lambda =  8700
+Inside Lambda  8800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04574979099999865
+fairness_error = 0.6313
+compute energy
+fair clustering energy = 16436.418289689973
+clustering energy = 0.16504542672167322
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044029924000000165
+fairness_error = 0.4885
+compute energy
+fair clustering energy = 16436.418286602602
+clustering energy = 0.17884459595607893
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03728597199999939
+fairness_error = 0.3965
+compute energy
+fair clustering energy = 16436.418284221218
+clustering energy = 0.18682506084530948
+......Job  done......
+0.4300088249999945
+lambda = 8800, 
+ fairness_error  0.40 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3965 |Error lambda =  8800
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0333 | Min Balance lambda =  8800
+Inside Lambda  8900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03103763099999668
+fairness_error = 0.6308
+compute energy
+fair clustering energy = 16623.161678864588
+clustering energy = 0.16511982192981556
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021117000000003827
+fairness_error = 0.4868
+compute energy
+fair clustering energy = 16623.1616758067
+clustering energy = 0.1794005083337895
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.045217723000000376
+fairness_error = 0.3943
+compute energy
+fair clustering energy = 16623.161673410465
+clustering energy = 0.18694378092384945
+......Job  done......
+0.42697907599999496
+lambda = 8900, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3943 |Error lambda =  8900
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0333 | Min Balance lambda =  8800
+Inside Lambda  9000
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03168504199999944
+fairness_error = 0.6308
+compute energy
+fair clustering energy = 16809.90506804459
+clustering energy = 0.16511982192981556
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021577843000002872
+fairness_error = 0.4862
+compute energy
+fair clustering energy = 16809.905065023006
+clustering energy = 0.1795384475990489
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04381812499999427
+fairness_error = 0.3936
+compute energy
+fair clustering energy = 16809.90506263907
+clustering energy = 0.18693698532585667
+......Job  done......
+0.4191838249999975
+lambda = 9000, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3936 |Error lambda =  9000
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0333 | Min Balance lambda =  8800
+Inside Lambda  9100
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044403049999999666
+fairness_error = 0.6307
+compute energy
+fair clustering energy = 16996.648457231455
+clustering energy = 0.1651330121066632
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.046062405999997225
+fairness_error = 0.4860
+compute energy
+fair clustering energy = 16996.64845423755
+clustering energy = 0.17928181155832323
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.045029740000003926
+fairness_error = 0.3934
+compute energy
+fair clustering energy = 16996.648451877776
+clustering energy = 0.1868775253274082
+......Job  done......
+0.42190675399999833
+lambda = 9100, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3934 |Error lambda =  9100
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0333 | Min Balance lambda =  9100
+Inside Lambda  9200
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.044805777999997076
+fairness_error = 0.6307
+compute energy
+fair clustering energy = 17183.39184642243
+clustering energy = 0.1651330121066632
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.043333838999998875
+fairness_error = 0.4860
+compute energy
+fair clustering energy = 17183.391843466256
+clustering energy = 0.17928181155832323
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.027216375999998377
+fairness_error = 0.3923
+compute energy
+fair clustering energy = 17183.39184113356
+clustering energy = 0.18765381840901973
+......Job  done......
+0.4270481860000004
+lambda = 9200, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3923 |Error lambda =  9200
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0333 | Min Balance lambda =  9100
+Inside Lambda  9300
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03109271099999944
+fairness_error = 0.6307
+compute energy
+fair clustering energy = 17370.135235621725
+clustering energy = 0.1651330121066632
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021398716000000206
+fairness_error = 0.4849
+compute energy
+fair clustering energy = 17370.135232697954
+clustering energy = 0.17946441620396136
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.041094557999997505
+fairness_error = 0.3895
+compute energy
+fair clustering energy = 17370.135230383832
+clustering energy = 0.1886521368367733
+......Job  done......
+0.3169726360000027
+lambda = 9300, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3895 |Error lambda =  9300
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0336 | Min Balance lambda =  9300
+Inside Lambda  9400
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05285036499999762
+fairness_error = 0.6307
+compute energy
+fair clustering energy = 17556.8786248241
+clustering energy = 0.1651330121066632
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.028297458000004383
+fairness_error = 0.4849
+compute energy
+fair clustering energy = 17556.878621935604
+clustering energy = 0.17946441620396136
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021816128000004653
+fairness_error = 0.3862
+compute energy
+fair clustering energy = 17556.878619646395
+clustering energy = 0.18976511163984489
+......Job  done......
+0.427015763
+lambda = 9400, 
+ fairness_error  0.39 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3862 |Error lambda =  9400
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0340 | Min Balance lambda =  9400
+Inside Lambda  9500
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03249906799999991
+fairness_error = 0.6302
+compute energy
+fair clustering energy = 17743.622014034896
+clustering energy = 0.16533386404519135
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.02145092199999965
+fairness_error = 0.4849
+compute energy
+fair clustering energy = 17743.62201117431
+clustering energy = 0.17946441620396136
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04195991200000293
+fairness_error = 0.3841
+compute energy
+fair clustering energy = 17743.622008914837
+clustering energy = 0.1908746232672307
+......Job  done......
+0.30667489800000425
+lambda = 9500, 
+ fairness_error  0.38 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3841 |Error lambda =  9500
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0340 | Min Balance lambda =  9400
+Inside Lambda  9600
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.06073359199999828
+fairness_error = 0.6283
+compute energy
+fair clustering energy = 17930.365403249198
+clustering energy = 0.16594834205688747
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.0492799479999988
+fairness_error = 0.4810
+compute energy
+fair clustering energy = 17930.365400399387
+clustering energy = 0.18090292198504354
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04932737200000048
+fairness_error = 0.3805
+compute energy
+fair clustering energy = 17930.365398117327
+clustering energy = 0.19189571028068686
+......Job  done......
+0.5002106529999963
+lambda = 9600, 
+ fairness_error  0.38 and 
+ avg_balance =  0.32 
+ min_balance =  0.03
+Best fairness_error 0.3805 |Error lambda =  9600
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0343 | Min Balance lambda =  9600
+Inside Lambda  9700
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05330778900000155
+fairness_error = 0.6006
+compute energy
+fair clustering energy = 18117.108792469706
+clustering energy = 0.1767112265709052
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.03264125800000528
+fairness_error = 0.4602
+compute energy
+fair clustering energy = 18117.108789272323
+clustering energy = 0.19094185518384688
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021998648999996817
+fairness_error = 0.3622
+compute energy
+fair clustering energy = 18117.108786877903
+clustering energy = 0.20013787011721051
+......Job  done......
+0.38886608800000033
+lambda = 9700, 
+ fairness_error  0.36 and 
+ avg_balance =  0.31 
+ min_balance =  0.03
+Best fairness_error 0.3622 |Error lambda =  9700
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0343 | Min Balance lambda =  9600
+Inside Lambda  9800
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.026382080999994173
+fairness_error = 0.6006
+compute energy
+fair clustering energy = 18303.85218169529
+clustering energy = 0.1767112265709052
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.022842490999998688
+fairness_error = 0.4602
+compute energy
+fair clustering energy = 18303.852178533445
+clustering energy = 0.19094185518384688
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.025875634000001924
+fairness_error = 0.3609
+compute energy
+fair clustering energy = 18303.852176164026
+clustering energy = 0.20042735830240588
+......Job  done......
+0.2936367239999953
+lambda = 9800, 
+ fairness_error  0.36 and 
+ avg_balance =  0.31 
+ min_balance =  0.03
+Best fairness_error 0.3609 |Error lambda =  9800
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0343 | Min Balance lambda =  9600
+Inside Lambda  9900
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.05320434800000129
+fairness_error = 0.6006
+compute energy
+fair clustering energy = 18490.5955709261
+clustering energy = 0.1767112265709052
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.04110121700000491
+fairness_error = 0.4591
+compute energy
+fair clustering energy = 18490.595567795935
+clustering energy = 0.19112713745567422
+Inside ncut update
+Inside Bound Update . . .
+[>           ] 0.0%[>           ] 0.0%[>           ] 0.1%Converged
+
+ Elapsed Time in bound_update 0.021506983999998397
+fairness_error = 0.3594
+compute energy
+fair clustering energy = 18490.595565443626
+clustering energy = 0.20066424174786013
+......Job  done......
+0.4027114630000028
+lambda = 9900, 
+ fairness_error  0.36 and 
+ avg_balance =  0.31 
+ min_balance =  0.03
+Best fairness_error 0.3594 |Error lambda =  9900
+Best  Avg balance 0.3471 | Avg Balance lambda =  7000
+Best  Min balance 0.0343 | Min Balance lambda =  9600
+avg elapsed  0.4368274038099998
